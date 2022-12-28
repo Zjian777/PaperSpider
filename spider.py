@@ -10,4 +10,4 @@ for i in tag:
 		text = i.get_text().replace("\n","")
 		f.write(text.strip())
 		f.write("\n")
-
+#This is the test text to see whether git is ok!
